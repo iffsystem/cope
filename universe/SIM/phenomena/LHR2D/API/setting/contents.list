@@ -1,0 +1,45 @@
+#--- output contents & colorbar range,,,,,,,
+#,,,,,,,
+# !!! contents abbreviation must NOT include "underscore" for distinguishing contents by file name !!!,,,,,,,
+#,,,,,,,
+#<contents:name>,<contents:abbreviation>,<min:value>,<max:value>,<unit>,<draw:1=ON;0=OFF>,<series:1=ON;0=OFF>,<default show:1=ON;0=OFF>
+thickness(flow),fdepth,0,20,m,1,1,1
+thickness(sedimentation),depo,0,20,m,0,1,1
+thickness(sedimentation from initial bed),acc-depo,0,50,m,0,1,0
+thickness(flow+sedimentation),flow+depo,0,20,m,0,1,0
+discharge(x),disch-x,0,1000,m3/sec,0,0,0
+discharge(y),disch-y,0,1000,m3/sec,0,0,0
+discharge,disch,0,1000,m3/sec,0,0,0
+concentration(sediment),cd,0,1,-,0,0,0
+flow speed(x),fspeed-x,-150,150,m/sec,0,0,0
+flow speed(y),fspeed-y,-150,150,m/sec,0,0,0
+flow speed,fspeed,0,150,m/sec,0,0,0
+flow power(x),fpower-x,0,1,kPa,0,0,0
+flow power(y),fpower-y,0,1,kPa,0,0,0
+flow power,fpower,0,1,kPa,0,0,0
+max thickness (flow),fdepthmax,0,20,m,1,0,1
+time at max thickness (flow),fdepthmaxtime,0,1,hour,0,0,0
+max thickness (sedimentation),depomax,0,20,m,1,0,1
+time at max thickness (sedimentation),depomaxtime,0,1,hour,0,0,0
+max discharge(x),disch-xmax,0,1,m3/sec,0,0,0
+max discharge(y),disch-ymax,0,1,m3/sec,0,0,0
+max discharge,dischmax,0,1,m3/sec,1,0,0
+time at max discharge,dischmaxtime,0,1,hour,0,0,0
+max concentration(sediment),cdmax,0,1,-,0,0,0
+time at max concentration(sediment),cdmaxtime,0,1,hour,0,0,0
+max flow speed(x),fspeed-xmax,0,150,m/sec,0,0,0
+max flow speed(y),fspeed-ymax,0,150,m/sec,0,0,0
+max flow speed,fspeedmax,0,150,m/sec,1,0,0
+time at max flow speed,fspeedmaxtime,0,1,hour,0,0,0
+max flow power(x),fpower-xmax,0,1,kPa,0,0,0
+max flow power(y),fpower-ymax,0,1,kPa,0,0,0
+max flow power,fpower-max,0,1,kPa,1,0,0
+time at max flow power,fpdynmaxtime,0,1,hour,0,0,0
+max flow pressure on the ground,pdynmax,0,1,kPa,1,0,0
+max excess pressure on the ground,pstamax,0,1,kPa,1,0,0
+max pressure (dynamic+excess),pmax,0,1,kPa,1,0,0
+time at max pressure (dynamic+excess),pmaxtime,0,1,kPa,0,0,0
+max shear stress on the ground,tau0max,0,1,kPa,1,0,0
+time at max shear stress on the ground,tau0maxtime,0,1,hour,0,0,0
+travel time,arr-time,0,3600,sec,1,0,0
+updated elevation,acc-elevation,0,3000,m,0,0,0

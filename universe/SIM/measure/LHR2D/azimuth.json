@@ -1,0 +1,16 @@
+{
+    "azimuth":{
+        "1":{"value":"162","unit":"deg"},
+        "2":{"value":"211","unit":"deg"},
+        "3":{"value":"198","unit":"deg"},
+        "4":{"value":"235","unit":"deg"},
+        "5":{"value":"252","unit":"deg"},
+        "6":{"value":"233","unit":"deg"},
+        "7":{"value":"277","unit":"deg"},
+        "8":{"value":"99","unit":"deg"},
+        "9":{"value":"107","unit":"deg"},
+        "10":{"value":"114","unit":"deg"},
+        "11":{"value":"135","unit":"deg"},        
+        "12":{"value":"145","unit":"deg"}        
+    }
+}

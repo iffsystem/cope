@@ -1,0 +1,29 @@
+{
+    "field":{
+        "name":"",
+        
+        "condition":{
+            "type":"rain",
+            
+            "distribution":{
+                "rainfall":{},
+                "intensity":{},
+                "volume":{},
+                "duration":{},
+                "waveform":{"value":"1","unit":"","remarks":"triangle"},
+				"peaktime":{"value":"0.3","unit":"%","remarks":"peak time in duration"},
+                "discharge":{
+                    "point":{},
+                    "width":{},
+                    "azimuth":{},
+                    "wavePropagation":{
+						"T1":{"value":"0.75","unit":"hour"},
+					    "T03":{"value":"1.1","unit":"hour"},
+						"remarks":"Nakayasu"
+					}
+                }
+            },
+            "point":{}            
+        }
+    }
+}

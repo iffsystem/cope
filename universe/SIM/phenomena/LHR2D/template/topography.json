@@ -1,0 +1,15 @@
+{
+    "field":{
+        "name":"",
+        
+        "condition":{
+            "type":"topography",
+            
+            "dem":{
+                "EPSG":{},
+                "extent":{},
+                "resolusion":{}
+            }
+        }
+    }
+}

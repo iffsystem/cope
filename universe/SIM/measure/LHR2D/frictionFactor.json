@@ -1,0 +1,8 @@
+{
+    "frictionFactor":{
+        "1":{"value":"20","unit":"deg"},
+        "2":{"value":"25","unit":"deg"},
+        "3":{"value":"30","unit":"deg"},
+        "4":{"value":"35","unit":"deg"}
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "field":{
+        "name":"",
+        
+        "condition":{
+            "type":"phenomena",
+            
+            "program":{
+                "1":{
+                    "path":"${D_ENGINE}/LHR2D/engine",
+                    "file":"lahar2d_ver1.02.f",
+                    "name":"LHR2D",
+                    "remarks":""
+                }
+            },
+                        
+            "input":{
+                "1":{
+                    "topography":{
+                        "dem":{
+                            "extent":"9",
+                            "resolution":"9"
+                        }
+                    }
+                },
+                "2":{
+                    "rain":{
+                        "distribution":{
+                            "rainfall":"1",
+                            "duration":"1",
+                            "waveform":"9",
+                            "peaktime":"9",
+                            "discharge":{
+                                "point":"1",
+                                "azimuth":"1",
+                                "width":"1",
+                                "wavePropagation":"9"
+                            }
+                        }
+                    }
+                },
+                "3":{
+                    "stratum":{
+                        "layer":{
+                            "1":{
+                                "property":{
+                               	    "roughness":"9",
+                                    "particleDistribution":"1"
+                            	}
+							}
+                        }
+                    }
+                },
+                "remarks":"0=no-use,1=necessary,9=option(default value is given by template)"
+            }
+        }
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "field":{
+        "name":"",
+        
+        "condition":{
+            "type":"topography",
+            
+            "dem":{
+                "file":{},
+                "extent":{},
+                "resolution":{}
+            }
+        }
+    }
+}

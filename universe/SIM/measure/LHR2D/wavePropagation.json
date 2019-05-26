@@ -1,0 +1,14 @@
+{
+    "wavePropagation":{
+        "1":{
+            "T1":{"value":"0.75","unit":"hour"},
+            "T03":{"value":"1.1","unit":"hour"},
+            "remarks":"Nakayasu"
+        },
+        "2":{
+            "T1":{"value":"0.95","unit":"hour"},
+            "T03":{"value":"1.4","unit":"hour"},
+            "remarks":"Nakayasu"
+        }      
+    }
+}

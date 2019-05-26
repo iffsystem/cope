@@ -1,0 +1,6 @@
+{
+    "waveform":{
+        "1":{"value":"1","unit":"","remarks":"triangle"},
+        "2":{"value":"2","unit":"","remarks":"rectangular"}      
+    }
+}

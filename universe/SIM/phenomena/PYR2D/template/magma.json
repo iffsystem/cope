@@ -1,0 +1,22 @@
+{
+    "field":{
+        "name":"",
+        
+        "condition":{
+            "type":"magma",
+            
+            "ejector":{
+                "domeCollapse":{
+                    "point":{},
+                    "volume":{},
+                    "frictionFactor":{"value":"0.6","unit":""},
+                    "duration":{},
+                    "waveform":{"value":"2","unit":"","remarks":"rectangular"},
+                    "width":{},
+                    "azimuth":{},
+                    "particleDiameter":{"value":"1.5e-1","unit":"m"}
+                }
+            }    
+        }
+    }
+}

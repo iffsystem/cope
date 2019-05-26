@@ -1,0 +1,46 @@
+{
+    "field":{
+        "name":"",
+        
+        "condition":{
+            "type":"phenomena",
+            
+            "program":{
+                "1":{
+                    "path":"${D_ENGINE}/PYR2D/engine",
+                    "file":"pcf_ver1.04.f",
+                    "name":"PYR2D",
+                    "remarks":"Yamashita & Miyamoto (1993)"
+                }
+            },
+            
+            "input":{
+                "1":{
+                    "topography":{
+                        "dem":{
+                            "extent":"9",
+                            "resolution":"9"
+                        }
+                    }
+                },
+                "2":{
+                    "magma":{
+                        "ejector":{
+                            "domeCollapse":{
+                                "volume":"1",
+                                "point":"1",
+                                "width":"1",
+                                "azimuth":"1",
+                                "frictionFactor":"9",
+                                "duration":"1",
+                                "waveform":"9",
+                                "particleDiameter":"9"
+                            }
+                        }
+                    }
+                },
+                "remarks":"0=no-use,1=necessary,9=option(default value is given by template)"
+            }
+        }
+    }
+}

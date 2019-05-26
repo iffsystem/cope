@@ -1,0 +1,34 @@
+{
+    "point":{
+        "1":{
+            "lon":{"value":"110.447475","unit":"degree"},"lat":{"value":"-7.544543","unit":"degree"},"remarks":"merapi, upper reach of gendol channel"
+        },
+        "2":{
+            "lon":{"value":"110.443994","unit":"degree"},"lat":{"value":"-7.544663","unit":"degree"},"remarks":"merapi, upper reach of boyong channel"
+        },
+        "3":{
+            "lon":{"value":"110.444797","unit":"degree"},"lat":{"value":"-7.545136","unit":"degree"},"remarks":"merapi, upper reach of kuning channel"
+        },
+        "4":{
+            "lon":{"value":"110.442839","unit":"degree"},"lat":{"value":"-7.543078","unit":"degree"},"remarks":"merapi, upper reach of krasak channel"
+        },
+        "5":{
+            "lon":{"value":"110.442291","unit":"degree"},"lat":{"value":"-7.541456","unit":"degree"},"remarks":"merapi, upper reach of putih channel"
+        },
+        "6":{
+            "lon":{"value":"110.445893","unit":"degree"},"lat":{"value":"-7.537194","unit":"degree"},"remarks":"merapi, upper reach of pabelan channel"
+        },
+        "7":{
+            "lon":{"value":"110.444171","unit":"degree"},"lat":{"value":"-7.537708","unit":"degree"},"remarks":"merapi, upper reach of apu channel"
+        },
+        "8":{
+            "lon":{"value":"110.448665","unit":"degree"},"lat":{"value":"-7.536925","unit":"degree"},"remarks":"merapi, upper reach of grawah channel"
+        },
+        "9":{
+            "lon":{"value":"110.449901","unit":"degree"},"lat":{"value":"-7.540362","unit":"degree"},"remarks":"merapi, upper reach of woro channel"
+        },
+        "10":{
+            "lon":{"value":"110.449901","unit":"degree"},"lat":{"value":"7.540362","unit":"degree"},"remarks":"dummy point for error check"
+        }
+    }
+}

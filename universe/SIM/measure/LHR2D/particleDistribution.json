@@ -1,0 +1,16 @@
+{
+    "particleDistribution":{
+        "1":{
+            "diameter":{
+				"1":{"diameter":{"value":"0.5","unit":"cm"},"rate":{"value":"0.5","unit":""},"rateAtDepo":{"value":"0","unit":""}},
+            	"2":{"diameter":{"value":"1","unit":"cm"},"rate":{"value":"0.5","unit":""},"rateAtDepo":{"value":"1","unit":""}}
+			}
+		},
+        "2":{
+            "diameter":{
+				"1":{"diameter":{"value":"1","unit":"cm"},"rate":{"value":"0.5","unit":""},"rateAtDepo":{"value":"0","unit":""}},
+            	"2":{"diameter":{"value":"5","unit":"cm"},"rate":{"value":"0.5","unit":""},"rateAtDepo":{"value":"1","unit":""}}
+        	}
+		}
+    }
+}

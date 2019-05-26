@@ -1,0 +1,11 @@
+{
+    "width":{
+        "1":{"value":"1","unit":"pixel"},
+        "2":{"value":"2","unit":"pixel"},
+        "3":{"value":"3","unit":"pixel"},
+        "4":{"value":"5","unit":"pixel"},
+        "5":{"value":"7","unit":"pixel"},
+        "6":{"value":"8","unit":"pixel"},
+        "7":{"value":"10","unit":"pixel"}
+    }
+}

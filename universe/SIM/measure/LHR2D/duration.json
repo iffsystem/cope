@@ -1,0 +1,11 @@
+{
+    "duration":{
+        "1":{"value":"10","unit":"min"},
+        "2":{"value":"30","unit":"min"},
+        "3":{"value":"60","unit":"min"},
+        "4":{"value":"80","unit":"min"},
+        "5":{"value":"90","unit":"min"},
+        "6":{"value":"120","unit":"min"},
+        "7":{"value":"180","unit":"min"}
+    }
+}

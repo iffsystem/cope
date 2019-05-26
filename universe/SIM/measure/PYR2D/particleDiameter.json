@@ -1,0 +1,9 @@
+{
+    "particleDiameter":{
+        "1":{"value":"1e-1","unit":"m"},
+        "2":{"value":"1.5e-1","unit":"m"},
+        "3":{"value":"2e-1","unit":"m"},
+        "4":{"value":"3e-1","unit":"m"},
+        "5":{"value":"5e-2","unit":"m"}
+    }
+}

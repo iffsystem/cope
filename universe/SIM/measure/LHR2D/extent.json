@@ -1,0 +1,49 @@
+{
+    "extent":{
+        "1":{
+            "lon-NW":{"value":"110.430192","unit":"degree"},"lat-NW":{"value":"-7.57915","unit":"degree"},
+            "lon-SE":{"value":"110.519235","unit":"degree"},"lat-SE":{"value":"-7.78815","unit":"degree"},
+            "remarks":"merapi, covering gendol channel"
+        },
+        "2":{
+            "lon-NW":{"value":"110.323163","unit":"degree"},"lat-NW":{"value":"-7.534112","unit":"degree"},
+            "lon-SE":{"value":"110.451069","unit":"degree"},"lat-SE":{"value":"-7.770109","unit":"degree"},
+            "remarks":"merapi, covering boyong channel"
+        },
+        "3":{
+            "lon-NW":{"value":"110.366254","unit":"degree"},"lat-NW":{"value":"-7.533693","unit":"degree"},
+            "lon-SE":{"value":"110.469121","unit":"degree"},"lat-SE":{"value":"-7.770902","unit":"degree"},
+            "remarks":"merapi, covering kuning channel"
+        },
+        "4":{
+            "lon-NW":{"value":"110.258261","unit":"degree"},"lat-NW":{"value":"-7.495259","unit":"degree"},
+            "lon-SE":{"value":"110.456245","unit":"degree"},"lat-SE":{"value":"-7.697625","unit":"degree"},
+            "remarks":"merapi, covering krasak channel"
+        },
+        "5":{
+            "lon-NW":{"value":"110.258261","unit":"degree"},"lat-NW":{"value":"-7.495259","unit":"degree"},
+            "lon-SE":{"value":"110.456245","unit":"degree"},"lat-SE":{"value":"-7.697625","unit":"degree"},
+            "remarks":"merapi, covering putih channel"
+        },
+        "6":{
+            "lon-NW":{"value":"110.258261","unit":"degree"},"lat-NW":{"value":"-7.495259","unit":"degree"},
+            "lon-SE":{"value":"110.456245","unit":"degree"},"lat-SE":{"value":"-7.697625","unit":"degree"},
+            "remarks":"merapi, covering pabelan channel"
+        },
+        "7":{
+            "lon-NW":{"value":"110.258261","unit":"degree"},"lat-NW":{"value":"-7.495259","unit":"degree"},
+            "lon-SE":{"value":"110.456245","unit":"degree"},"lat-SE":{"value":"-7.697625","unit":"degree"},
+            "remarks":"merapi, covering apu channel"
+        },
+        "8":{
+            "lon-NW":{"value":"110.379168","unit":"degree"},"lat-NW":{"value":"-7.474875","unit":"degree"},
+            "lon-SE":{"value":"110.542736","unit":"degree"},"lat-SE":{"value":"-7.621195","unit":"degree"},
+            "remarks":"merapi, covering grawah channel"
+        },
+        "9":{
+            "lon-NW":{"value":"110.410615","unit":"degree"},"lat-NW":{"value":"-7.53652","unit":"degree"},
+            "lon-SE":{"value":"110.52948","unit":"degree"},"lat-SE":{"value":"-7.7648","unit":"degree"},
+            "remarks":"merapi, covering woro channel"
+        }
+    }
+}

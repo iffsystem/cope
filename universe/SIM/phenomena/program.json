@@ -1,0 +1,16 @@
+{
+    "program":{
+        "1":{
+            "path":"${D_ENGINE}/PYR2D/engine",
+            "file":"main.f90",
+            "name":"PYR2D",
+            "remarks":"Yamashita & Miyamoto (1993)"
+        },
+        "2":{
+            "path":"${D_ENGINE}/LHR2D/engine",
+            "file":"main.f90",
+            "name":"LHR2D",
+            "remarks":""
+        }
+    }
+}

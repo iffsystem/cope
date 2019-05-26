@@ -1,0 +1,13 @@
+{
+    "volume":{
+        "1":{"value":"1e5","unit":"m3"},
+        "2":{"value":"3e5","unit":"m3"},
+        "3":{"value":"7e5","unit":"m3"},
+        "4":{"value":"1e6","unit":"m3"},
+        "5":{"value":"3e6","unit":"m3"},
+        "6":{"value":"7e6","unit":"m3"},
+        "7":{"value":"1e7","unit":"m3"},
+        "8":{"value":"3e7","unit":"m3"},
+        "9":{"value":"7e7","unit":"m3"}
+    }
+}
